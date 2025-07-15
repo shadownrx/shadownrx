@@ -34,7 +34,7 @@
 ### 🛠️ Proyectos personales destacados
 - ✅ AddBlock hecho a medida
 - 🌐 Red social funcional desarrollada desde cero
-- 💻 Implementación del aula virtual IES en electron js - [![Repositorio](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shadownrx/IES)
+- 💻 Implementación del aula virtual IES en electron js - https://github.com/shadownrx/IES
 - ✅ CPP Compilador (Juego usando C++) en la web
 ---
 
