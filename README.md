@@ -1,10 +1,10 @@
-<h1 align="center">👋 ¡Hola! Soy [Tu Nombre o Alias]</h1>
+<h1 align="center">👋 ¡Hola! Soy Salvador</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Estudiante+de+Desarrollo+de+Software;Apasionado+por+la+Ciberseguridad+%F0%9F%94%91;Explorando+el+desarrollo+y+la+aviaci%C3%B3n+%E2%9C%88%EF%B8%8F" alt="Typing SVG" />
 </p>
 
----
+
 
 🎓 **Formación Académica**
 - Estudiante de **Tecnicatura Universitaria en Desarrollo de Software**
