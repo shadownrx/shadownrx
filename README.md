@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/UX--UI-2026_Standard-00F5FF?style=for-the-badge&logo=framer" />
-  <img src="https://img.shields.io/badge/Engine-Custom_CPP_Interpreter-gold?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Engine-Custom_Interpreter-gold?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Security-Red_Team_Mindset-FF0055?style=for-the-badge&logo=hackthebox" />
 </p>
 
@@ -13,7 +13,7 @@
 > `> Caraduras detectados: 0%`
 > `> Lógica de Salvador: 100%`
 
-Soy un desarrollador que opera en la intersección de la **Ingeniería de Software** y la **Ciberseguridad**. Mi trabajo no es solo escribir código, es crear estructuras invulnerables. Mientras el "zoológico" busca el camino fácil, yo construyo el intérprete que define las reglas.
+Operando en la intersección de la **Ingeniería de Software** y la **Ciberseguridad**. Mi enfoque es la creación de estructuras invulnerables y sistemas de alta disponibilidad. Mientras otros buscan el camino fácil, yo construyo el intérprete que define las reglas del juego.
 
 ---
 
@@ -25,10 +25,23 @@ Soy un desarrollador que opera en la intersección de la **Ingeniería de Softwa
 ---
 
 ### 💎 The Masterpiece: C++ Adventure
-Este no es un proyecto más. Es un **Motor de Interpretación de 821 líneas**. 
-* **Innovación:** Parsing manual de lógica C++ sobre Next.js.
-* **Seguridad:** Entorno sandboxed para aprendizaje interactivo.
+Este es mi **Motor de Interpretación de 821 líneas**. No es una simple web, es un entorno de ejecución simulado.
+* **Ingeniería:** Parsing manual de lógica C++ (bucles, condicionales, funciones) sobre Next.js.
+* **Seguridad:** Entorno sandboxed para experimentación de código en tiempo real.
 * **[>> EJECUTAR SISTEMA <<](https://cpp-interactiva.vercel.app/)**
+
+---
+
+### 🚀 Proyectos de Élite (The Full Arsenal)
+
+| Proyecto | Impacto & Lógica de Ingeniería | Power Stack |
+| :--- | :--- | :--- |
+| **🌊 BitFlow** | **Data Architecture:** Sistema de flujo de datos optimizado para privacidad y alta disponibilidad. | `TypeScript` `Node` |
+| **📦 Imperio Logístico** | **Business Logic:** Gestión de stock real-time con algoritmos de integridad de datos. | `React` `MongoDB` |
+| **💻 IES Desktop** | **Native Performance:** Port de aula virtual a entorno nativa via Electron para máxima fluidez. | `Electron JS` |
+| **🕵️ Automation Spider** | **Data Intelligence:** Bots de scraping masivo y automatización de procesos críticos. | `Python` `Selenium` |
+| **🌐 Social Core** | **Fullstack Ecosystem:** Arquitectura de red social con seguridad en capas y auth robusta. | `Express` `React` |
+| **🚫 Custom AdBlock** | **Network Security:** Filtrado de tráfico a nivel cliente para privacidad total. | `JavaScript` |
 
 ---
 
