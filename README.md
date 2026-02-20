@@ -1,62 +1,68 @@
-<h1 align="center">🛡️ Salvador Juarez | Shadownrx</h1>
+<h1 align="center">⚔️ Salvador Juarez | Software Architect & Security Specialist</h1>
 
 <p align="center">
-  <strong>Software Developer & Cybersecurity Enthusiast</strong><br>
-  <em>Construyendo sistemas robustos, rompiendo códigos para entender el mundo.</em>
+  <img src="https://img.shields.io/badge/Status-Building_Empire-gold?style=for-the-badge&logo=opsgenie" />
+  <img src="https://img.shields.io/badge/Security-Cisco_Certified-red?style=for-the-badge&logo=cisco" />
+  <img src="https://img.shields.io/badge/Engineering-100+_Repos-success?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building_Empire-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_Fullstack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Repos-100+-success?style=for-the-badge" />
+  <strong>Desarrollador con mentalidad de Ethical Hacker.</strong><br>
+  Especialista en construir sistemas donde otros solo ven código y en romper barreras donde otros ven límites.
 </p>
 
 ---
 
-### 👤 Sobre mí
-Estudiante de la **Tecnicatura Universitaria en Desarrollo de Software**. Mi enfoque no es solo que el código funcione, sino que sea **seguro y eficiente**. Si algo existe, quiero saber cómo funciona por dentro; si tiene una vulnerabilidad, quiero encontrarla antes que el "enemigo".
+### 🕵️ Perfil del Sistema
+[cite_start]Estudiante avanzado de la **Tecnicatura Universitaria en Desarrollo de Software**[cite: 2, 35]. [cite_start]Mi enfoque es la **Ingeniería de Soluciones**: no solo busco que el código compile, sino que sea invulnerable y eficiente.
 
-* 🧠 **Cisco Certified:** Cybersecurity Essentials & Ethical Hacking.
-* ✈️ **Pasión:** Aviación y sistemas de alta disponibilidad.
-* 🔨 **Filosofía:** "Romper para reconstruir". El error es solo un log que falta analizar.
-
----
-
-### 🛠️ Tech Stack & Skills
-* **Frontend:** React, Electron JS (Desktop Apps Specialist).
-* **Backend:** Node.js, REST APIs.
-* **Security:** Pentesting, OWASP Top 10, Network Security.
-* **Tools:** Git, Linux (Power User), Cisco Ecosystem.
+* [cite_start]🛡️ **Defensa Operativa:** Certificado por Cisco en Cybersecurity Essentials y Ethical Hacking[cite: 9, 37].
+* [cite_start]⚙️ **Arquitectura Pura:** Creador de un intérprete lógico de C++ de **821 líneas** desarrollado en TypeScript.
+* [cite_start]✈️ **Sistemas de Alta Disponibilidad:** Pasión por la aviación aplicada al rigor técnico del software.
 
 ---
 
-### 🚀 Proyectos de Alto Impacto
-| Proyecto | Descripción | Tech |
+### 🚀 Proyectos de Élite (Proof of Concept)
+
+| Proyecto | Impacto & Lógica | Stack Principal |
 | :--- | :--- | :--- |
-| **[Sistema Distribuidora](https://github.com/shadownrx)** | Gestión logística real con control de stock e integridad de datos. | Node/React |
-| **[IES Desktop App](https://github.com/shadownrx/IES)** | Implementación del aula virtual en Electron JS para mejor UX. | Electron |
-| **[BitFlow](https://github.com/shadownrx/BitFlow)** | Mi visión de un flujo de datos optimizado y privado. | TypeScript |
-| **[Custom AdBlock](https://github.com/shadownrx/Adblock-Open-Source)** | Bloqueador de anuncios open source centrado en la privacidad. | JS |
+| **[🎮 C++ Adventure](https://cpp-interactiva.vercel.app/)** | [cite_start]**Masterpiece:** Intérprete lógico que emula C++ en el navegador (Parsing & Execution manual). | Next.js, TypeScript |
+| **[📦 Logística Imperio](https://github.com/shadownrx)** | [cite_start]Sistema de gestión de stock masivo con integridad de datos y optimización de flujos[cite: 1, 16]. | Node.js, React, MongoDB |
+| **[💻 IES Desktop](https://github.com/shadownrx/IES)** | [cite_start]Aplicación nativa de alto rendimiento para entornos educativos. | Electron JS |
+| **[🌐 Red Social Core](https://github.com/shadownrx)** | [cite_start]Arquitectura desde cero con autenticación robusta y gestión de interacciones[cite: 22]. | React, Node.js, Express |
+| **[🚫 Custom AdBlock](https://github.com/shadownrx/Adblock-Open-Source)** | [cite_start]Herramienta de privacidad centrada en el filtrado de tráfico seguro. | JavaScript |
 
 ---
 
-### 📊 Análisis de Actividad
+### 🛠️ Stack Tecnológico
+* [cite_start]**Frontend:** React, Next.js, Electron JS (Desktop Specialist)[cite: 1, 20].
+* [cite_start]**Backend:** Node.js, Express, Python (Selenium/Scraping), Java (en formación)[cite: 14, 15, 29].
+* [cite_start]**Ciberseguridad:** Pentesting, OWASP Top 10, Network Security[cite: 1, 38].
+* [cite_start]**Base de Datos:** MongoDB, PostgreSQL, MySQL[cite: 32].
+
+---
+
+### 📊 Actividad del Servidor
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shadownrx&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shadownrx&show_icons=true&theme=tokyonight&hide_border=true&show_icons=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadownrx&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shadownrx&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
-### 📫 Conectemos el Socket
-<p align="left">
-<a href="https://www.linkedin.com/in/hsalvador-juarez/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:salvadorjuars4@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+### 📫 Establecer Conexión (Socket)
+<p align="center">
+<a href="https://www.linkedin.com/in/hsalvador-juarez/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:salvadorjuars4@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="right">
-  <em>"En un mundo de caraduras, la lógica es la única verdad."</em><br>
-  <img src="https://media.giphy.com/media/IeRdg7zdcJzON5nA5v/giphy.gif" width="50" />
+  <em>"En un mundo de caraduras, la lógica es la única constante."</em><br>
+  <img src="https://media.giphy.com/media/IeRdg7zdcJzON5nA5v/giphy.gif" width="40" />
 </p>
